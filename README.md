@@ -21,13 +21,13 @@ A full-stack image sharing application inspired by Pinterest. Built with the MER
 
 ## 🛠️ Tech Stack
 
-### Frontend
+# Frontend
 - React
 - Tailwind CSS
 - React Router
 - Axios
 
-### Backend
+# Backend
 - Node.js
 - Express
 - MongoDB (with Mongoose)
@@ -42,7 +42,7 @@ full-stack-pinterest/
 
 ## ⚙️ How to Run the Project Locally
 
-### Backend
+# Backend
 cd backend
 npm install
 npm run dev
